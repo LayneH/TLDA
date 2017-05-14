@@ -10,8 +10,7 @@ TensorFlow implementation of the paper [Supervised Representation Learning: Tran
 
 ---
 ## Setup
-Run `bash setup.sh` in terminal to automatically download the CIFAR-100 dataset
-and pretrained VGG19 model.
+Run `bash setup.sh` in terminal to automatically download the CIFAR-100 dataset.
 
 ---
 
